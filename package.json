@@ -1,0 +1,23 @@
+{
+  "name": "scratch-offline-archive",
+  "version": "1.0.0",
+  "description": "A project aiming to archive Scratch projects and make them be able to be downloadable into an easy to use GUI.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwesomeKalin/scratch-offline-archive.git"
+  },
+  "author": "AwesomeKalin55, The Scratch Team and whoever made the projects included",
+  "license": "SEE LICENSE IN \"LICENSE\"",
+  "bugs": {
+    "url": "https://github.com/AwesomeKalin/scratch-offline-archive/issues"
+  },
+  "homepage": "https://github.com/AwesomeKalin/scratch-offline-archive#readme",
+  "dependencies": {
+    "electron": "^16.0.2",
+    "electron-dl": "^3.3.0"
+  }
+}
