@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/AwesomeKalin/scratch-offline-archive#readme",
   "dependencies": {
-    "electron": "^16.0.2",
+    "electron": "^27.3.4",
     "electron-dl": "^3.3.0"
   }
 }
